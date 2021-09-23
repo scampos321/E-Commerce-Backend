@@ -1,5 +1,4 @@
 # E-Commerce Backend
-# Employee Manager
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Description
 This is a REST API application for an ecommerce backend website using express.js servers and sequelize. The application can view, create, update, and delete categories, tags, and products from the database. To view the database use Insomnia or Postman as an API client.
