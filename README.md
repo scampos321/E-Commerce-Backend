@@ -35,7 +35,8 @@ This is a REST API application for an ecommerce backend website using express.js
 5. notenv
 
 # Demo Video for Application
-[Deployed Demo]()
+[<img width="350" alt="Screen Shot 2021-09-24 at 12 39 35 AM" src="https://user-images.githubusercontent.com/85428896/134619174-6089cae9-6a81-4a84-a299-2ac5f69112d1.png">
+](https://drive.google.com/file/d/16oprkZEtRjNjZKu_eFZdwYJZcxtmr1xZ/view)
 
 # Screenshot of Demo
 <img width="1269" alt="Screen Shot 2021-09-23 at 6 08 58 PM" src="https://user-images.githubusercontent.com/85428896/134590669-cbf26307-bf39-4d1d-a313-9d369bff44ad.png">
